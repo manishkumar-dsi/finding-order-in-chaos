@@ -1,2 +1,2 @@
-# finding-order-in-chaos
+# Finding order in chaos
 Repository for my Machine Learning and Data Science practices
