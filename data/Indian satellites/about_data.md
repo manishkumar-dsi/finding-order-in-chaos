@@ -4,13 +4,19 @@ This list covers most artificial satellites built in and operated by the Republi
 
 ## Columns definition:
 
-**id**: Counter
-**name**: Name of the payload
-**dicipline**: Payload decipline. Purpose of payload. It is comma separated
-**launch date**: Satellite's launch date. At present
-**launch time**: Satellite's launch time in IST (or UTC)
-**launch site**: Place of the launch site
-**launch status**: If launch status is 0 then mission is failed, if it is 1 then status is successful
+**id** : Counter
+
+**name** : Name of the payload
+
+**dicipline** : Payload decipline. Purpose of payload. It is comma separated
+
+**launch date** : Satellite's launch date. At present
+
+**launch time** : Satellite's launch time in IST (or UTC)
+
+**launch site** : Place of the launch site
+
+**launch status** : If launch status is 0 then mission is failed, if it is 1 then status is successful
 
 ## Collection methodology
 
